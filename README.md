@@ -39,7 +39,7 @@ J'ai aussi à ma charge le code review des différentes librairies.
 Nous sommes sur une architecture micro-frontend. Les fronts sont développés avec Nuxt. Le back est développé sous SAP Ecommerce. SAP Ecommerce expose une api, et les front utilisent cette API.
 Nous avons plusieurs librairies pour gérer toute la logique métier commune aux fronts.
 
-## Ma mission idéale
+# Ma mission idéale
 
 - Une équipe AGILE
 - Une roadmap chargée pour ne pas s'ennuyer :)
@@ -50,7 +50,7 @@ Nous avons plusieurs librairies pour gérer toute la logique métier commune aux
 - TJM 550€
 - Travailler avec ma stack de prédilection ⬇️
 
-## Technos
+# Technos
 
 ### Ma stack de prédilection
 
@@ -66,6 +66,13 @@ Nous avons plusieurs librairies pour gérer toute la logique métier commune aux
 - React
 - NextJS
 - Typescript
+
+## Side project
+
+J'ai développé un side-project qui a pour but de référencer toutes les vidéos des conférences TECH.
+http://www.dev-conference.com
+
+J'ai développé l'API avec Symfony, le front grâce à NextJS. J'utilise Algolia pour la recherche fulltext, et supabase pour la gestion des utilisateurs.
 
 ## Mes passions
 
