@@ -77,4 +77,5 @@ J'ai développé l'API avec Symfony, le front grâce à NextJS. J'utilise Algoli
 ## Mes passions
 
 Je suis passioné par le jeu de go, domaine dans lequel j'ai un certain niveau https://online-go.com/player/643734/
-Jouer aux jeux de société, surtout ceux pour les enfants depuis que je suis Papa https://www.myludo.fr/#!/profil/julien-humbert-35719
+
+Je joue aussi aux jeux de société, surtout ceux pour les enfants depuis que je suis Papa https://www.myludo.fr/#!/profil/julien-humbert-35719
